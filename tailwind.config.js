@@ -5,11 +5,6 @@ module.exports = {
   ],
   theme: {
 
-    screen: {
-      desktop: "1240px",
-      mobile: "960px",
-    },
-
     colors: {
       red: '#FC0000',
       black: '#000000',
@@ -19,6 +14,7 @@ module.exports = {
       "gray-light": '#B4B4B4',
       "pink-light": '#FFF0F0',
       "pink-dark": '#FB5353',
+      "transparent": 'transparent',
 
     },
 

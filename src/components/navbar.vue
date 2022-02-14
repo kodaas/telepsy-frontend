@@ -1,7 +1,9 @@
 <template>
     <nav class="fixed w-full max-w-[2500px] z-10 bg-black text-white py-5 px-10 flex flex-nowrap justify-between">
         <div>
-            <img src="../assets/icon/telepsy-logo.svg" alt="Telepsy">
+            <router-link to="/">
+                <img src="../assets/icon/telepsy-logo.svg" alt="Telepsy">
+            </router-link>
         </div>
         <ul class="flex items-center font-poppins text-sm space-x-14 font-bold">
             <li class="underline underline-offset-8 decoration-red decoration-4"><router-link to="/">Home</router-link></li>

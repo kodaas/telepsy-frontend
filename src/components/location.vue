@@ -7,9 +7,9 @@
             
             <section class="absolute top-0 text-white w-full h-full flex lg:flex-row flex-col lg:items-center lg:justify-between px-12">
                 <div class="flex-1 lg:w-1/2 space-y-6">
-                    <h1 class="font-poppins mt-8 text-center lg:text-left font-bold text-xl">Find the nearest Mental Health specialist near you we are simply the best.</h1>
+                    <h1 class="font-poppins justify-items-end mt-28 lg:mt-0 text-center lg:text-left font-bold text-lg lg:text-xl">Find the nearest Mental Health specialist near you we are simply the best.</h1>
                 
-                    <p class="text-md hidden lg:block text-center lg:text-left ">Lörem ipsum tiren poponas föde den ikigai huruvida ser. Taktig fakybel. Gigahätor lande på paradoktigt för att trera ötov. Fagt terat. Dire nyr parangar, dad biovis.</p>
+                    <p class="text-md hidden lg:block text-center lg:text-left">Lörem ipsum tiren poponas föde den ikigai huruvida ser. Taktig fakybel. Gigahätor lande på paradoktigt för att trera ötov. Fagt terat. Dire nyr parangar, dad biovis.</p>
                 
                 </div>
 

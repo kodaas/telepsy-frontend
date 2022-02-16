@@ -1,5 +1,5 @@
 <template>
-    <section class="w-[23em] border-[1px] border-pink rounded-xl overflow-hidden hover:shadow-sm transition-all duration-300 bg-white">
+    <section class="w-[23em] min-w-[23em] max-w-[23em] mb-5 border-[1px] border-pink rounded-xl overflow-hidden hover:shadow-sm transition-all duration-300 bg-white">
         <img :src="imgUri" class="w-full h-52 mb-0 object-cover" :alt="name">
         <div class="p-5 pt-3">
           <h1 class="font-poppins text-[1.5em] font-bold leading-9 text-red">Dr. {{ name }}</h1>

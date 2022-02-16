@@ -4,9 +4,9 @@
 
         <div class="flex flex-wrap justify-center space-x-14">
 
-            <SingleDoctor imgUri="/src/assets/image/hero.png" name="Ruiz" role="psychiatrist" about="Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae ullam iste, quo, magni qui nobis molestias modi sequi accusamus nostrum possimus illo accusantium suscipit ab omnis. Nam soluta veritatis minima!" :like="10"/>
-            <SingleDoctor imgUri="/src/assets/image/hero.png" name="Sandra" role="psychiatrist" about="Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae ullam iste, quo, magni qui nobis molestias modi sequi accusamus nostrum possimus illo accusantium suscipit ab omnis. Nam soluta veritatis minima!" :like="5"/>
-            <SingleDoctor imgUri="/src/assets/image/hero.png" name="Nicobar" role="psychiatrist" about="Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae ullam iste, quo, magni qui nobis molestias modi sequi accusamus nostrum possimus illo accusantium suscipit ab omnis. Nam soluta veritatis minima!" :like="20"/>
+            <SingleDoctor imgUri="/src/assets/image/hero.png" name="Ruiz" role="psychiatrist" about="Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae ullam iste, quo, magni qui nobis molestias modi sequi accusamus nostrum possimus illo accusantium suscipit ab omnis. Nam soluta veritatis minima! sequi accusamus nostrum possimus illo accusantium suscipit ab omnis." :like="10"/>
+            <SingleDoctor imgUri="/src/assets/image/hero.png" name="Sandra" role="psychiatrist" about="Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae ullam iste, quo, magni qui nobis molestias modi sequi accusamus nostrum possimus illo accusantium suscipit ab omnis. Nam soluta veritatis minima! sequi accusamus nostrum possimus illo accusantium suscipit ab omnis." :like="5"/>
+            <SingleDoctor imgUri="/src/assets/image/hero.png" name="Nicobar" role="psychiatrist" about="Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae ullam iste, quo, magni qui nobis molestias modi sequi accusamus nostrum possimus illo accusantium suscipit ab omnis. Nam soluta veritatis minima! sequi accusamus nostrum possimus illo accusantium suscipit ab omnis." :like="20"/>
 
         </div>
 
